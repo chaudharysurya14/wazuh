@@ -28,3 +28,7 @@ Wazuh is designed to scale to large environments, making it suitable for both sm
 Wazuh supports active responses, enabling automated actions in response to security events. For example, it can block an IP address or execute a custom script based on defined rules.
 
 => Wazuh is often used in conjunction with other security tools and solutions to provide a comprehensive security monitoring and response platform. It is commonly deployed in environments where real-time threat detection, incident response, and compliance monitoring are crucial aspects of the cybersecurity strategy.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+Change wazuh logo - Go to setting > configuration > scroll down
